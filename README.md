@@ -30,7 +30,7 @@ This repository contains solutions to assignments from the Dsegin of Algorithms 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/kasra-noorbakhsh/DA-Course.git
    cd your-repo-name
    ```
 
